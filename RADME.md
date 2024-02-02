@@ -8,6 +8,7 @@
 
 [![website](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg)](https://www.linkedin.com/in/omar-heriche-4836a4263/#gh-light-mode-only)
 [![website](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg)](https://www.linkedin.com/in/omar-heriche-4836a4263/#gh-dark-mode-only)
+
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://www.instagram.com/hericheomar/#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/hericheomar/#gh-dark-mode-only)
