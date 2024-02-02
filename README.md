@@ -50,3 +50,7 @@
 <br />
 
 ---
+<img align="left" alt="OmarHeriche's Github Stats" src="https://
+github-readme-stats.vercel.app/api?username=OmarHeriche&show_
+icons=true&
+hide_border=true" />
