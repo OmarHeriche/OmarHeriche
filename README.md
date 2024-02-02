@@ -33,7 +33,6 @@
 <img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
 
 <img align="left" alt="express.js" width="26px" color="white" src="https://icongr.am/devicon/express-original.svg" style="padding-right:10px; filter: invert(1);" />
-<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxZW0iIGhlaWdodD0iZW0iIHZpZXdCb3g9IjAgMCAyNTYgMjU3Ij48cGF0aCBmaWxsPSIjRkZGIiBkPSJNMTQ3LjM4NiA2OS4wNzFMMTQ3LjEyOSAwLjI1Ny0zOC41MTUubDIuMjU3IDAuMjU3IDAuMjU3IDE5LjI1NyAyNi40ODpiLTM4LjUxNSAxMTguMzcxbC4yNTcgMTkuMjU3IDI2LjQ0OGwtMTkuMjU3IDI2LjQ0N3Y2OS4zMjh2LTY5LjMyOGwtMTkuMjU3IDI2LjQ4em0tMzguNTE1IDEyOC4zNzF2NjkuMzI4aC0zOC41MTV6bTE0Ny4zODYgNTUuOTc2bC0zMS4wNjktMjIuNTk2bC0zMC41NzQtMTAuMDE1em0tMzguNTE1IDkxLjY2N2wtMTEuODExIDcuMDY5TDAuMCAxMDYuODE2bDY1LjczMyAyMS41NjlsMzEuMDY5LTEwLjI3MXp6bS03Ny41NDUgMTkxLjY2N2wtNDAuNTcgNTUuOTc1LTMxLjA2OSAyMi41OTZsLTMxLjA2OS0yMi41OTZsLTQwLjU3IDU1Ljk3NnY2OS4zMjhoLTM4LjUxNXptMTAwLjkxIDEyOC4zNzFMMjU2IDEwNi44MTZsLTExLjgxMSAzNi40NjFsNjUuNzMzIDIxLjU2OWwzMS4wNjktMTAuMjcxem0tMTI0LjUzNCAwTDAgMTQ5LjY5Ny41NzQgMTEuODExIDM2LjQ2MWwtMTY1LjczMy0yMS4zMTFsMTEuODExIDM2LjQ2MWw2NS43MzMtMjEuMzExeiIvPjwvc3ZnPg==" width="26" alt="LinkedIn">
 
 <img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
 
