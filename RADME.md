@@ -6,8 +6,9 @@
 
 ### Connect with me:
 
-[![website](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg | width=26)](https://www.linkedin.com/in/omar-heriche-4836a4263/#gh-light-mode-only)
-[![website](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg | width=26)](https://www.linkedin.com/in/omar-heriche-4836a4263/#gh-dark-mode-only)
+[![website](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg)](https://www.linkedin.com/in/omar-heriche-4836a4263/#gh-light-mode-only){ width=26px }
+
+[![website](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg)](https://www.linkedin.com/in/omar-heriche-4836a4263/#gh-dark-mode-only){ width=26px }
 
 
 
