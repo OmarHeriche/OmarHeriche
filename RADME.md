@@ -6,8 +6,8 @@
 
 ### Connect with me:
 
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/omar-heriche-4836a4263/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/omar-heriche-4836a4263/#gh-dark-mode-only)
+[![website](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg)](https://www.linkedin.com/in/omar-heriche-4836a4263/#gh-light-mode-only)
+[![website](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg)](https://www.linkedin.com/in/omar-heriche-4836a4263/#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://www.instagram.com/hericheomar/#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/hericheomar/#gh-dark-mode-only)
@@ -30,7 +30,7 @@
 
 <img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
 
-<img align="left" alt="express.js" width="26px" color="white" src="https://icongr.am/devicon/express-original.svg" style="padding-right:10px;" />
+<img align="left" alt="express.js" width="26px" color="white" src="https://icongr.am/devicon/express-original.svg" style="padding-right:10px; filter: invert(1);" />
 
 <img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
 
