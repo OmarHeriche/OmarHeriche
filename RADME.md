@@ -1,13 +1,15 @@
 # Hi there, I'm Omar 👋 a 2nd CS student
 
 # I'm currently perfecting my sckills in the backend
-
 - 🔭 I'm currently aiming to be a MERN developper
 - 👯 I'm looking to collaborate with other developers
 
 ### Connect with me:
 
+<a href="https://www.linkedin.com/in/your_username/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" href="https://www.linkedin.com/in/omar-heriche-4836a4263/" width="26" alt="LinkedIn">
+</a>
+
 
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://www.instagram.com/hericheomar/#gh-light-mode-only)
@@ -53,7 +55,6 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-
 - [I Cannot Believe How Powerful This Headless CMS Is!](https://www.youtube.com/watch?v=43Eznupydng)
 - [I Cannot Believe How Good This VS Code AI Coding Assistant Is!](https://www.youtube.com/watch?v=TALwI3J4asY)
 - [Eddie Jaoude Explains &amp; Talks about MDX Documentation](https://www.youtube.com/watch?v=ZTX9-_MyaIw)
@@ -68,7 +69,6 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
 - [Next.js 14: No New APIs &amp; Breaking Changes](https://dev.to/mongodb/nextjs-14-no-new-apis-breaking-changes-3nh3)
 - [Render ATL 2023 Trip Report](https://dev.to/codestackr/render-atl-2023-trip-report-mp4)
 - [Web Development Roadmap 2023](https://dev.to/codestackr/web-development-roadmap-2023-5beo)
