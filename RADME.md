@@ -9,7 +9,9 @@
 <a href="https://www.linkedin.com/in/your_username/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" href="https://www.linkedin.com/in/omar-heriche-4836a4263/" width="26" alt="LinkedIn">
 </a>
-
+<a href="https://www.instagram.com/hericheomar/">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8MW5BOjG73cjujhr0R5t0eqV-0z7dVkOj5Sygv9y4gA&s" href="https://www.linkedin.com/in/omar-heriche-4836a4263/" width="26" alt="LinkedIn">
+</a>
 
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://www.instagram.com/hericheomar/#gh-light-mode-only)
