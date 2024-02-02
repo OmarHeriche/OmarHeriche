@@ -6,7 +6,9 @@
 
 ### Connect with me:
 
-[![LinkedIn](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg)](https://www.linkedin.com/in/your_username/)
+<a href="https://www.linkedin.com/in/your_username/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="26" alt="LinkedIn">
+</a>
 
 
 
