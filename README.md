@@ -50,7 +50,4 @@
 <br />
 
 ---
-<img align="left" alt="OmarHeriche's Github Stats" src="https://
-github-readme-stats.vercel.app/api?username=OmarHeriche&show_
-icons=true&
-hide_border=true" />
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?OmarHeriche=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
