@@ -1,8 +1,8 @@
 # Hi there, I'm Omar 👋 a 2nd CS student
 
 # I'm currently perfecting my sckills in the backend
-- 🔭 I'm currently aiming to be a MERN developper
-- 👯 I'm looking to collaborate with other developers
+- 🔭 aiming to be a MERN developper
+- 👯 looking to collaborate with other developers
 
 ### Connect with me:
 
