@@ -4,6 +4,29 @@
 - 🔭 aiming to be a MERN developer
 - 👯 looking to collaborate with other developers
 
+## Profile Views
+
+
+  <table>
+    <tr>
+     <!-- <th>Profile Views</th> -->
+      <th>Total Count</th>
+    </tr>
+    <tr>
+      <!-- <td>
+        <div align="center">
+          <a href="https://github.com/OmarHeriche"><img src="https://github.com/OmarHeriche" alt="@OmarHeriche" width="52" /></a>
+          <br />
+          <a align="center" href="https://github.com/OmarHeriche"><b>OmarHeriche</b></a>
+        </b>
+      </td> -->
+      <!-- Profile Views -->
+      <td>
+         <a href="https://github.com/OmarHeriche"> <img src="https://komarev.com/ghpvc/?username=OmarHeriche&style=for-the-badge&color=brightgreen"> </a>
+      </td>
+    </tr>
+  </table>
+
 ### Connect with me:
 
 <a href="https://www.linkedin.com/in/your_username/">
@@ -50,10 +73,36 @@
 <br />
 
 ---
-<div style="display: flex; flex-direction: row;">
-    <img src="https://github-readme-stats.vercel.app/api?username=OmarHeriche&show_icons=true&theme=transparent" alt="Anurag's GitHub stats">
-    <img style="width: 40%;" src="https://camo.githubusercontent.com/01c83210f7feb975ea3b9a852808beb6689425add471f76f942c15875626af5d/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" alt="Video">
+
+## My Stats:
+<p align="center">
+<img height="200px" src="https://github-readme-stats.vercel.app/api?username=OmarHeriche&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515">
+</p>
+
+## Activity On GitHub
+
+<p align="center">
+  <a href="https://github.com/OmarHeriche">      
+<img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=OmarHeriche&theme=dark&hide_border=true&stroke=f53b3b"/>
+</a> 
+</p>
+
+## Top Respositorys
+
+<p align="left">
+    <a href="https://github.com/OmarHeriche/CRUD-JWT-DB"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=OmarHeriche&repo=CRUD-JWT-DB&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+   <a href="https://github.com/OmarHeriche/backend_todolist_and_db"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=OmarHeriche&repo=backend_todolist_and_db&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+   <a href="https://github.com/OmarHeriche/node-express-practice"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=OmarHeriche&repo=node-express-practice&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+  </p>
+
+## Welcome 
+
+<div align="center">
+  <img height="200px" src="https://camo.githubusercontent.com/01c83210f7feb975ea3b9a852808beb6689425add471f76f942c15875626af5d/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" alt="Video">
 </div>
+
+
+
 
 
 
