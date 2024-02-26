@@ -1,6 +1,6 @@
 # Hi there, I'm Omar 👋 a 2nd CS student
 
-# I'm currently perfecting my skills in the backend
+# THIS WEEK IS DEDICATED TO DB DESIGN
 - 🔭 aiming to be a MERN developer
 - 👯 looking to collaborate with other developers
 
