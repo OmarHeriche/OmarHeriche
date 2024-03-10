@@ -1,6 +1,6 @@
 # Hi there, I'm Omar 👋 a 2nd CS student
 
-# "current target: mastering database design."
+
 - 🔭 aiming to be a MERN developer
 - 👯 looking to collaborate with other developers
 
