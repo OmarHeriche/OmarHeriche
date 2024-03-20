@@ -63,8 +63,6 @@
 
 <img align="left" alt="mongoose" width="26px" color="red" src="https://icon.icepanel.io/Technology/svg/Mongoose.js.svg" style="padding-right:10px;" />
 
-<img align="left" alt="redis" width="26px" color="red" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" style="padding-right:10px;" />
-
 <img align="left" alt="figma" width="26px" color="red" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" style="padding-right:10px;" />
 
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
