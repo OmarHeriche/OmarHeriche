@@ -1,4 +1,4 @@
-#I'm Omar 👋 a 2nd CS student
+# I'm Omar 👋 a 2nd CS student
 
 
 - 🔭 aiming to be a MERN developer
