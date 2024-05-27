@@ -1,7 +1,6 @@
 # I'm Omar 👋 a 2nd CS student
 
 
-- 🔭 aiming to be a MERN developer
 - 👯 looking to collaborate with other developers
 
   <div align="right">
