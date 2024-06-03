@@ -53,11 +53,9 @@
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8MW5BOjG73cjujhr0R5t0eqV-0z7dVkOj5Sygv9y4gA&s" href="https://www.linkedin.com/in/omar-heriche-4836a4263/" width="26" alt="LinkedIn">
 </a>
 
-### Languages and Tools:
+### Languages && frameWorks:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-
-<img align="left" alt="swagger" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" style="padding-right:10px;" />
 
 <img align="left" alt="c" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="padding-right:10px;" />
 
@@ -75,9 +73,18 @@
 
 <p font-size="86px">EX</p>
 
+### Databases && frameWorks:
+
 <img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
 
 <img align="left" alt="mongoose" width="26px" color="red" src="https://icon.icepanel.io/Technology/svg/Mongoose.js.svg" style="padding-right:10px;" />
+
+<img align="left" alt="redis" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" style="padding-right:10px;" />
+<br>
+
+### Work In Teams:
+
+<img align="left" alt="swagger" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" style="padding-right:10px;" />
 
 <img align="left" alt="jest" width="26px" color="red" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" style="padding-right:10px;" />
 
@@ -89,9 +96,7 @@
 
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />
 
-<img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" style="padding-right:10px;" />
-
-<img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" style="padding-right:10px;" />
+<img align="left" alt="docker" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" style="padding-right:10px;" />
 <br />
 <br />
 
