@@ -1,4 +1,4 @@
-# I'm Omar 👋 a 2nd CS student
+# I'm Omar 👋 a 3rd CS student
 
 
 - 👯 looking to collaborate with other developers
