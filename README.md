@@ -1,4 +1,4 @@
-# I'm Omar 👋 a 3rd CS student
+# I'm Omar 👋 full-stack and llms developer
 
 
 - 👯 looking to collaborate with other developers
