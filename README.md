@@ -8,7 +8,7 @@
     <tr>
       <td>
         <a href="https://github.com/OmarHeriche">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmarHeriche&langs_count=6&theme=tokyonight" alt="Top Langs">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmarHeriche&langs_count=9&theme=tokyonight" alt="Top Langs">
         </a>
       </td>
       <td>
