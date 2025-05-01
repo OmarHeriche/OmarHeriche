@@ -94,6 +94,18 @@
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
 </div>
 
+## Skills & Expertise
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Web_Development-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/LLMs_&_AI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Problem_Solving-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/Full_Stack_Development-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/API_Design-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Database_Architecture-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+</div>
+
 ---
 
 ## My Stats:
