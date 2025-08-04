@@ -1,4 +1,4 @@
-# I'm Omar 👋 full-stack and llms developer
+# I'm Omar 👋 web mobile ai developer,
 
 
 - 👯 looking to collaborate with other developers
