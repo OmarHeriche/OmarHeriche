@@ -1,4 +1,4 @@
-# I'm Omar 👋 web mobile ai developer,
+# Full Stack Developer | AI Automation | HIPAA Specialist
 
 
 <div align="center">
