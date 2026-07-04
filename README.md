@@ -1,8 +1,6 @@
 # I'm Omar 👋 web mobile ai developer,
 
 
-- 👯 looking to collaborate with other developers
-
 <div align="center">
   <table>
     <tr>
